@@ -1698,6 +1698,62 @@
   background-image: url(../flags/1x1/ua.svg);
 }
 
+.fi-ua-05 {
+  background-image: url(../flags/4x3/ua-05.svg);
+}
+.fi-ua-05.fis {
+  background-image: url(../flags/1x1/ua-05.svg);
+}
+
+.fi-ua-07 {
+  background-image: url(../flags/4x3/ua-07.svg);
+}
+.fi-ua-07.fis {
+  background-image: url(../flags/1x1/ua-07.svg);
+}
+
+.fi-ua-09 {
+  background-image: url(../flags/4x3/ua-09.svg);
+}
+.fi-ua-09.fis {
+  background-image: url(../flags/1x1/ua-09.svg);
+}
+
+.fi-ua-14 {
+  background-image: url(../flags/4x3/ua-14.svg);
+}
+.fi-ua-14.fis {
+  background-image: url(../flags/1x1/ua-14.svg);
+}
+
+.fi-ua-18 {
+  background-image: url(../flags/4x3/ua-18.svg);
+}
+.fi-ua-18.fis {
+  background-image: url(../flags/1x1/ua-18.svg);
+}
+
+.fi-ua-21 {
+  background-image: url(../flags/4x3/ua-21.svg);
+}
+.fi-ua-21.fis {
+  background-image: url(../flags/1x1/ua-21.svg);
+}
+
+.fi-ua-23 {
+  background-image: url(../flags/4x3/ua-23.svg);
+}
+.fi-ua-23.fis {
+  background-image: url(../flags/1x1/ua-23.svg);
+}
+
+.fi-ua-43 {
+  background-image: url(../flags/4x3/ua-43.svg);
+}
+.fi-ua-43.fis {
+  background-image: url(../flags/1x1/ua-43.svg);
+}
+
 .fi-ug {
   background-image: url(../flags/4x3/ug.svg);
 }
@@ -1866,6 +1922,13 @@
   background-image: url(../flags/1x1/ic.svg);
 }
 
+.fi-ua-sv {
+  background-image: url(../flags/4x3/ua-sv.svg);
+}
+.fi-ua-sv.fis {
+  background-image: url(../flags/1x1/ua-sv.svg);
+}
+
 .fi-arab {
   background-image: url(../flags/4x3/arab.svg);
 }
@@ -1913,4 +1976,11 @@
 }
 .fi-un.fis {
   background-image: url(../flags/1x1/un.svg);
+}
+
+.fi-ua-18b {
+  background-image: url(../flags/4x3/ua-18b.svg);
+}
+.fi-ua-18b.fis {
+  background-image: url(../flags/1x1/ua-18b.svg);
 }

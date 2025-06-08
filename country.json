@@ -2224,6 +2224,96 @@
     "continent": "Europe"
   },
   {
+    "code": "ua-05",
+    "flag_1x1": "flags/1x1/ua-05.svg",
+    "flag_4x3": "flags/4x3/ua-05.svg",
+    "iso": true,
+    "name": "Vinnytsia Oblast",
+    "capital": "Vinnytsia",
+    "continent": "Europe"
+  },
+  {
+    "code": "ua-07",
+    "flag_1x1": "flags/1x1/ua-07.svg",
+    "flag_4x3": "flags/4x3/ua-07.svg",
+    "iso": true,
+    "name": "Volyn Oblast",
+    "capital": "Lutsk",
+    "continent": "Europe"
+  },
+  {
+    "code": "ua-09",
+    "flag_1x1": "flags/1x1/ua-09.svg",
+    "flag_4x3": "flags/4x3/ua-09.svg",
+    "iso": true,
+    "name": "Luhansk Oblast",
+    "capital": "Luhansk",
+    "continent": "Europe"
+  },
+  {
+    "code": "ua-14",
+    "flag_1x1": "flags/1x1/ua-14.svg",
+    "flag_4x3": "flags/4x3/ua-14.svg",
+    "iso": true,
+    "name": "Donetsk Oblast",
+    "capital": "Donetsk",
+    "continent": "Europe"
+  },
+  {
+    "code": "ua-18",
+    "flag_1x1": "flags/1x1/ua-18.svg",
+    "flag_4x3": "flags/4x3/ua-18.svg",
+    "iso": true,
+    "name": "Zhytomyr Oblast",
+    "capital": "Zhytomyr",
+    "continent": "Europe"
+  },
+  {
+    "code": "ua-18b",
+    "flag_1x1": "flags/1x1/ua-18b.svg",
+    "flag_4x3": "flags/4x3/ua-18b.svg",
+    "iso": false,
+    "name": "Zhytomyr Oblast (2002-2003)",
+    "capital": "Zhytomyr",
+    "continent": "Europe"
+  },
+  {
+    "code": "ua-21",
+    "flag_1x1": "flags/1x1/ua-21.svg",
+    "flag_4x3": "flags/4x3/ua-21.svg",
+    "iso": true,
+    "name": "Zakarpattia Oblast",
+    "capital": "Uzhhorod",
+    "continent": "Europe"
+  },
+  {
+    "code": "ua-23",
+    "flag_1x1": "flags/1x1/ua-23.svg",
+    "flag_4x3": "flags/4x3/ua-23.svg",
+    "iso": true,
+    "name": "Zaporizhzhia Oblast",
+    "capital": "Zaporizhzhia",
+    "continent": "Europe"
+  },
+  {
+    "code": "ua-43",
+    "flag_1x1": "flags/1x1/ua-43.svg",
+    "flag_4x3": "flags/4x3/ua-43.svg",
+    "iso": true,
+    "name": "Autonomous Republic of Crimea",
+    "capital": "Simferopol",
+    "continent": "Europe"
+  },
+  {
+    "code": "ua-sv",
+    "flag_1x1": "flags/1x1/ua-sv.svg",
+    "flag_4x3": "flags/4x3/ua-sv.svg",
+    "iso": false,
+    "name": "Sevastopol",
+    "capital": "Sevastopol",
+    "continent": "Europe"
+  },
+  {
     "code": "ug",
     "flag_1x1": "flags/1x1/ug.svg",
     "flag_4x3": "flags/4x3/ug.svg",
