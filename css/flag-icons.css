@@ -606,6 +606,13 @@
   background-image: url(../flags/1x1/gb-wls.svg);
 }
 
+.fi-gb-zet {
+  background-image: url(../flags/4x3/gb-zet.svg);
+}
+.fi-gb-zet.fis {
+  background-image: url(../flags/1x1/gb-zet.svg);
+}
+
 .fi-gd {
   background-image: url(../flags/4x3/gd.svg);
 }
