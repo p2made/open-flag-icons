@@ -1846,6 +1846,96 @@
     "continent": "Europe"
   },
   {
+    "code": "ru-ad",
+    "flag_1x1": "flags/1x1/ru-ad.svg",
+    "flag_4x3": "flags/4x3/ru-ad.svg",
+    "iso": true,
+    "name": "Adygea",
+    "capital": "Maykop",
+    "continent": "Europe"
+  },
+  {
+    "code": "ru-agb",
+    "flag_1x1": "flags/1x1/ru-agb.svg",
+    "flag_4x3": "flags/4x3/ru-agb.svg",
+    "iso": true,
+    "name": "Agin-Buryat Okrug",
+    "capital": "Aginskoye",
+    "continent": "Asia"
+  },
+  {
+    "code": "ru-al",
+    "flag_1x1": "flags/1x1/ru-al.svg",
+    "flag_4x3": "flags/4x3/ru-al.svg",
+    "iso": true,
+    "name": "Altai Republic",
+    "capital": "Gorno-Altaysk",
+    "continent": "Asia"
+  },
+  {
+    "code": "ru-ark",
+    "flag_1x1": "flags/1x1/ru-ark.svg",
+    "flag_4x3": "flags/4x3/ru-ark.svg",
+    "iso": true,
+    "name": "Arkhangelsk Oblast",
+    "capital": "Arkhangelsk",
+    "continent": "Europe"
+  },
+  {
+    "code": "ru-ast",
+    "flag_1x1": "flags/1x1/ru-ast.svg",
+    "flag_4x3": "flags/4x3/ru-ast.svg",
+    "iso": true,
+    "name": "Astrakhan Oblast",
+    "capital": "Astrakhan",
+    "continent": "Europe"
+  },
+  {
+    "code": "ru-ba",
+    "flag_1x1": "flags/1x1/ru-ba.svg",
+    "flag_4x3": "flags/4x3/ru-ba.svg",
+    "iso": true,
+    "name": "Bashkortostan",
+    "capital": "Ufa",
+    "continent": "Europe"
+  },
+  {
+    "code": "ru-bry",
+    "flag_1x1": "flags/1x1/ru-bry.svg",
+    "flag_4x3": "flags/4x3/ru-bry.svg",
+    "iso": true,
+    "name": "Bryansk Oblast",
+    "capital": "Bryansk",
+    "continent": "Europe"
+  },
+  {
+    "code": "ru-bu",
+    "flag_1x1": "flags/1x1/ru-bu.svg",
+    "flag_4x3": "flags/4x3/ru-bu.svg",
+    "iso": true,
+    "name": "Buryatia",
+    "capital": "Ulan-Ude",
+    "continent": "Asia"
+  },
+  {
+    "code": "ru-ce",
+    "flag_1x1": "flags/1x1/ru-ce.svg",
+    "flag_4x3": "flags/4x3/ru-ce.svg",
+    "iso": true,
+    "name": "Chechnya",
+    "capital": "Grozny",
+    "continent": "Europe"
+  },
+  {
+    "code": "ru-che",
+    "flag_1x1": "flags/1x1/ru-che.svg",
+    "flag_4x3": "flags/4x3/ru-che.svg",
+    "iso": true,
+    "name": "Chelyabinsk Oblast",
+    "capital": "Chelyabinsk",
+    "continent": "Asia"
+  },
+  {
     "code": "rw",
     "flag_1x1": "flags/1x1/rw.svg",
     "flag_4x3": "flags/4x3/rw.svg",
