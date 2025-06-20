@@ -1914,3 +1914,59 @@
 .fi-un.fis {
   background-image: url(../flags/1x1/un.svg);
 }
+
+.fi-bisexual {
+  background-image: url(../flags/4x3/bisexual.svg);
+}
+.fi-bisexual.fis {
+  background-image: url(../flags/1x1/bisexual.svg);
+}
+
+.fi-gaymale {
+  background-image: url(../flags/4x3/gaymale.svg);
+}
+.fi-gaymale.fis {
+  background-image: url(../flags/1x1/gaymale.svg);
+}
+
+.fi-intersex {
+  background-image: url(../flags/4x3/intersex.svg);
+}
+.fi-intersex.fis {
+  background-image: url(../flags/1x1/intersex.svg);
+}
+
+.fi-lesbian {
+  background-image: url(../flags/4x3/lesbian.svg);
+}
+.fi-lesbian.fis {
+  background-image: url(../flags/1x1/lesbian.svg);
+}
+
+.fi-nonbinary {
+  background-image: url(../flags/4x3/nonbinary.svg);
+}
+.fi-nonbinary.fis {
+  background-image: url(../flags/1x1/nonbinary.svg);
+}
+
+.fi-pansexual {
+  background-image: url(../flags/4x3/pansexual.svg);
+}
+.fi-pansexual.fis {
+  background-image: url(../flags/1x1/pansexual.svg);
+}
+
+.fi-pride {
+  background-image: url(../flags/4x3/pride.svg);
+}
+.fi-pride.fis {
+  background-image: url(../flags/1x1/pride.svg);
+}
+
+.fi-trans {
+  background-image: url(../flags/4x3/trans.svg);
+}
+.fi-trans.fis {
+  background-image: url(../flags/1x1/trans.svg);
+}

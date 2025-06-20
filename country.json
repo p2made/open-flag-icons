@@ -229,6 +229,13 @@
     "continent": "Africa"
   },
   {
+    "code": "bisexual",
+    "flag_1x1": "flags/1x1/bisexual.svg",
+    "flag_4x3": "flags/4x3/bisexual.svg",
+    "iso": false,
+    "name": "Bisexual Pride"
+  },
+  {
     "code": "bj",
     "flag_1x1": "flags/1x1/bj.svg",
     "flag_4x3": "flags/4x3/bj.svg",
@@ -760,6 +767,13 @@
     "continent": "Africa"
   },
   {
+    "code": "gaymale",
+    "flag_1x1": "flags/1x1/gaymale.svg",
+    "flag_4x3": "flags/4x3/gaymale.svg",
+    "iso": false,
+    "name": "Gay Male Pride"
+  },
+  {
     "code": "gb",
     "flag_1x1": "flags/1x1/gb.svg",
     "flag_4x3": "flags/4x3/gb.svg",
@@ -1065,6 +1079,13 @@
     "continent": "Asia"
   },
   {
+    "code": "intersex",
+    "flag_1x1": "flags/1x1/intersex.svg",
+    "flag_4x3": "flags/4x3/intersex.svg",
+    "iso": false,
+    "name": "Intersex Pride"
+  },
+  {
     "code": "io",
     "flag_1x1": "flags/1x1/io.svg",
     "flag_4x3": "flags/4x3/io.svg",
@@ -1270,6 +1291,13 @@
     "name": "Saint Lucia",
     "capital": "Castries",
     "continent": "North America"
+  },
+  {
+    "code": "lesbian",
+    "flag_1x1": "flags/1x1/lesbian.svg",
+    "flag_4x3": "flags/4x3/lesbian.svg",
+    "iso": false,
+    "name": "Lesbian Pride"
   },
   {
     "code": "li",
@@ -1623,6 +1651,13 @@
     "continent": "Europe"
   },
   {
+    "code": "nonbinary",
+    "flag_1x1": "flags/1x1/nonbinary.svg",
+    "flag_4x3": "flags/4x3/nonbinary.svg",
+    "iso": false,
+    "name": "Nonbinary Pride"
+  },
+  {
     "code": "np",
     "flag_1x1": "flags/1x1/np.svg",
     "flag_4x3": "flags/4x3/np.svg",
@@ -1675,6 +1710,13 @@
     "name": "Panama",
     "capital": "Panama City",
     "continent": "North America"
+  },
+  {
+    "code": "pansexual",
+    "flag_1x1": "flags/1x1/pansexual.svg",
+    "flag_4x3": "flags/4x3/pansexual.svg",
+    "iso": false,
+    "name": "Pansexuality Pride"
   },
   {
     "code": "pc",
@@ -1763,6 +1805,13 @@
     "name": "Puerto Rico",
     "capital": "San Juan",
     "continent": "North America"
+  },
+  {
+    "code": "pride",
+    "flag_1x1": "flags/1x1/pride.svg",
+    "flag_4x3": "flags/4x3/pride.svg",
+    "iso": false,
+    "name": "LGB Pride"
   },
   {
     "code": "ps",
@@ -2177,6 +2226,13 @@
     "name": "Türkiye",
     "capital": "Ankara",
     "continent": "Asia"
+  },
+  {
+    "code": "trans",
+    "flag_1x1": "flags/1x1/trans.svg",
+    "flag_4x3": "flags/4x3/trans.svg",
+    "iso": false,
+    "name": "Transgender Pride"
   },
   {
     "code": "tt",
